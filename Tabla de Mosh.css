@@ -1,0 +1,54 @@
+caption {
+	font: 44px sans-serif;
+}
+th {
+	font: 20px verdana;
+	background-color: #b5c6d7;
+}
+td {
+	font: 15px arial black;
+}
+.talco {
+	background-color: #fff;
+	color: red;
+}
+.yeso {
+	background-color: #e6e6e6;
+	color: red;
+}
+.calcita {
+	background-color: #ccc;
+	color: red;
+}
+.fluorita {
+	background-color: #b3b3b3;
+	color: red;
+}
+.apatito {
+	background-color: #999;
+	color: red;
+}
+.ortosa {
+	background-color: #808080;
+	color: red;
+}
+.cuarzo {
+	background-color: #666;
+	color: red;
+}
+.topacio {
+	background-color: #4c4c4c;
+	color: red;
+}
+.corindon {
+	background-color: #333;
+	color: red;
+}
+.diamante {
+	background-color: #000;
+	color: red;
+}
+img {
+	width: 30px;
+	height: 25px;
+}
